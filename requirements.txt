@@ -1,0 +1,9 @@
+# requirements for run app.py, not includes .ipynb file for create model
+## platform: win10-64
+## python 3.9.12
+argparse==1.4.0
+flask==2.1.2
+numpy==1.23.0
+opencv-python==4.6.0.66
+pillow==9.2.0
+
